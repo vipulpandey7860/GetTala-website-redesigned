@@ -1,21 +1,21 @@
 @font-face {
     font-family: attila;
-    src: url("./assets/attila.ttf");
+    src: url("Assets/attila.ttf");
 }
 
 @font-face {
     font-family: copyright klim;
-    src: url("./assets/copyright-klim.ttf");
+    src: url("Assets/copyright-klim.ttf");
 }
 
 @font-face {
     font-family: saira;
-    src: url("./Assets/saira.ttf");
+    src: url("Assets/saira.ttf");
 }
 
 @font-face {
     font-family: stabil grotesk;
-    src: url("./Assets/stabil-grotesk.ttf");
+    src: url("Assets/stabil-grotesk.ttf");
 }
 
 * {
