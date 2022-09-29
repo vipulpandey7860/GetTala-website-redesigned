@@ -27,7 +27,7 @@
 
 html,
 body {
-    height: 100%;
+    /* height: 100%; */
     width: 100%;
     color: #D5CDC4;
     font-family: 'attila';
@@ -37,6 +37,7 @@ body {
     position: relative;
     overflow-x: hidden;
     background-color: #232025;
+    min-height: 100vh;
 }
 
 #nav {
