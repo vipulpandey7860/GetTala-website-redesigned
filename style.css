@@ -1234,6 +1234,10 @@ h5 {
 
     }
 
+    #page6>img{
+        left: 45vw;
+    }
+
     #page7 {
         padding: 30vh 0;
     }
